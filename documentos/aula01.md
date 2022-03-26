@@ -3,7 +3,7 @@
 
 ### Materiais
 - [Plano de Ensino](plano_ensino_metodologia_2021_2.pdf)
-- [Slides aula 01](aula_ciencia_conhecimento.pdf)
+- [Notas de aula Ciência e Conhecimento Científico](aula_ciencia_conhecimento.pdf)
 
 ### Videos aulas metodologia -  Ciência e Conhecimento Científico - Parte I, Parte II e Parte III
 [![Ciência e Conhecimento Científico PARTE I](capa_1.png)]()
