@@ -38,4 +38,10 @@
 
 - [ ]  Erro de raciocínio persuasivo
 - [ ]  Seleção de falácias ( Argumento da ignorância, Apelo Popular, Apelo à autoridade, Apelo à força, Apelo à piedade, Falsa causa)
-- [ ]  Métodos científicos em ciê
+- [ ]  Métodos científicos em ciêntíficos em ciência da computação
+- [ ]  O que significa ciência experimental
+- [ ]  Tipos de artigos em ciência da computação
+- [ ]  O processo experimental em ciência da computação
+- [ ]  Processo experimental sistemático
+- [ ]  Entendendo o perfil de gamer: http://livrogamification.com.br/quiz/
+- [ ]  Aprendendo sobre o Kahoot: Métodos Científicos
