@@ -1,1 +1,24 @@
-
+### Aulas
+- [22/03/2022 a 29/03/2022 - Ciência e Conhecimento Científico - 6h](aula01.md)
+- [30/03/2022 a 06/04/2022 - Métodos Científicos - 6h]()
+- [12/04/2022 a 13/04/2022 - A Pesquisa Como Instrumento de Intervenção - 4h]()
+- [19/04/2022 - Mapeamento Sistemático e Sugestão de temas - 2h]()
+- [20/04/2022 - Técnicas de Pesquisa - 2h]()
+- [26/04/2022 - Discussão sobre os temas de pesquisa e grupos - 2h]()
+- [27/04/2022 - Técnicas de Apresentação - 2h]()
+- [03/05/2022 - Os diferentes tipos de trabalho científico (incluindo resumo e resenha) - 2h]()
+- [04/05/2022 - Desenvolvimento Mapeamento Sistemático - Aula Dúvidas - 2h]()
+- #### [10/05/2022 - 11/05/2022 - Apresentação grupos - 4h]()
+- [17/05/2022 a 18/05/2022 - Normas técnicas e Gêneros de Pesquisa -4h]()
+- #### [24/05/2022 a 25/05/2022 - Feira das Profissões - 4h]
+- #### [31/05/2022 - Feriado Aniversário Jataí]
+- [01/06/2022 - Desenvolvimento Mapeamento Sistemático - Aula dúvidas -2h]()
+- #### [03/06/2022 Entrega Mapeamento Sistemático, Resumo e Resenha - APENAS ENTREGA]()
+- [07/06/2022 a 08/06/2022 - A escrita do Artigo Científico e Overleaf - 4h]()
+- [14/06/2022 - Entrega N1 e Discussão Avaliações - 2h]()
+- [15/06/2022 a 21/06/2022 - O projeto de pesquisa e seus componentes/ Reflexões sobre o trabalho acadêmico - 4h](aula18.md)
+- [22/06/2022 - Níveis de exigência do trabalho de conclusão / Plágio - 2h]()
+- [28/06/2022 a 29/06/2022 -  Dúvidas e Desenvolvimento Artigo Científico - 4h]()
+- #### [01/07/2022 - Entrega Artigo Científico - APENAS ENTREGA]()
+- #### [05/07/2022 a 06/07/2022 - Apresentações Artigos Científicos - 4h]()
+- [08/07/2022  - Entrega Média final e Discussão Avaliações - 2h]()
