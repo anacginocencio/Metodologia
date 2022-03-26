@@ -9,7 +9,3 @@
 - [Roteiro de aulas e materiais](documentos/roteiro.md)
 
 ##  CRONOGRAMA AVALIAÇÕES E ENTREGAS
-
-##  ATIVIDADES AVALIATIVAS N1
-
-##  ATIVIDADES AVALIATIVAS N2
