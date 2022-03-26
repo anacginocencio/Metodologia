@@ -5,25 +5,37 @@
 - [Notas de Aula Métodos Científicos](aula_metodos_cientificos.pdf)
 
 ### Videos aulas metodologia -  Ciência e Conhecimento Científico - Parte I, Parte II e Parte III
-[![Ciência e Conhecimento Científico PARTE I](capa_1.png)]()
-[![Ciência e Conhecimento Científico PARTE II](capa_2.png)]()
-[![Ciência e Conhecimento Científico PARTE III](capa_3.png)]()
+[![Métodos Científicos PARTE I](capa_4.png)]()
+[![Métodos Científicos PARTE II](capa_5.png)]()
+[![Métodos Científicos PARTE III](capa_6.png)]()
 
-####  O vídeo abaixo é sobre o mito da caverna, uma reflexão interessante para entendermos a importância de sair em busca de novos conhecimentos
+### Desenvolvimento Aula Métodos Científicos - Parte I: 
 
-[![material complementar](mito.png)](https://www.youtube.com/watch?v=XoU4YAhJzLY)
+- [ ]  Apresentar o conceito de método
+- [ ]  O Desenvolvimento histórico do método e sua importância (uma evolução a partir dos tipos de conhecimento.
+- [ ]  Teoria das inteligências múltiplas (Desta forma também não existe apenas um tipo de método)
+- [ ]  Método indutivo (DO PARTICULAR PARA O GERAL - EXEMPLO CISNE)
+- [ ]  As três etapas do método indutivo ( Observação dos fenômenos, descoberta da relação entre eles, generalização da relação)
+- [ ]  Método indutivo Completo ou formal
+- [ ]  Método indutivo incompleto ou científico
+- [ ]  A amostra é um fator importante para a força indutiva, quanto mais significativa for a amostra, mais força de argumentação
+- [ ]  Tipos de amostra (amostra insuficiente, amostra tendenciosa)
 
-### Desenvolvimento Aula Ciência e Conhecimento Científico: 
+### Desenvolvimento Aula Métodos Científicos - Parte II: 
 
-- [ ]  Apresentação Plano de ensino e cronograma disciplina
-- [ ]  A importância de Metodologia do Trabalho Científico para o desenvolvimento de pesquisas em Ciência da Computação
-- [ ]  A história do aluno de mestrado e o problema do rio que atravessava a cidade
-- [ ]  Apresentação dos tipos de conhecimento (filosófico, científico, senso comum e religioso)
-- [ ]  Apresentar a evolução da Ciência
-- [ ]  O que é Ciência afinal? 
-- [ ]  Classificação da Ciência adotada por Lakatos ( Ciências formais e Ciências Factuais)
-- [ ]  O que é Ciência da Computação
-- [ ]  Críticas a Ciência da Computação e possíveis respostas
-- [ ]  Classificação da Ciência da computação como Formais ou factuais, pura ou aplicada, exatas ou inexatas
-- [ ]  Explicação sobre a atividade do artigo WAZLAWICK, Raul Sidnei. “Uma Reflexão sobre a Pesquisa em Ciência da Computação à Luz da Classificação das Ciências e do Método Científico”. Revista de Sistemas de Informação da FSMA. n. 6, 2010 pp. 3-10
-- [ ]  Apresentação vídeo - Mito da caverna
+- [ ]  Método dedutivo (DO GERAL PARA O PARTICULAR - Todo mamífero tem um coração.Ora, todos os cães são mamíferos. Logo, todos os cães têm um coração.)
+- [ ]  O protótipo do raciocínio dedutivo é o silogismo: a partir de duas proposições chamadas premissas, retira uma terceira chamada conclusão.
+- [ ]  Conceito de premissa: É o ponto ou a ideia de que se parte para armar um raciocínio
+- [ ]  Exemplo SÓCRATES silogismo
+- [ ]  Diferença entre VERDADE e VALIDADE
+- [ ]  Método hipotético-dedutivo (não a verificabilidade, mas a falseabilidade de um modelo)
+- [ ]  O que é observação?
+- [ ]  O que é Problema?
+- [ ]  O que é Conjectura?
+- [ ]  Tentativa de falseamento.
+
+### Desenvolvimento Aula Métodos Científicos - Parte III: 
+
+- [ ]  Erro de raciocínio persuasivo
+- [ ]  Seleção de falácias ( Argumento da ignorância, Apelo Popular, Apelo à autoridade, Apelo à força, Apelo à piedade, Falsa causa)
+- [ ]  Métodos científicos em ciê
