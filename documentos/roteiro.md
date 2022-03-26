@@ -1,4 +1,4 @@
-### Aulas
+### CRONOGRAMA AULAS
 - [22/03/2022 a 29/03/2022 - Ciência e Conhecimento Científico - 6h](aula01.md)
 - [30/03/2022 a 06/04/2022 - Métodos Científicos - 6h]()
 - [12/04/2022 a 13/04/2022 - A Pesquisa Como Instrumento de Intervenção - 4h]()
