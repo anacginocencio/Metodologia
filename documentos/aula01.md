@@ -5,11 +5,6 @@
 - [Plano de Ensino](plano_ensino_metodologia_2021_2.pdf)
 - [Notas de aula Ciência e Conhecimento Científico](aula_ciencia_conhecimento.pdf)
 
-### Videos aulas metodologia -  Ciência e Conhecimento Científico - Parte I, Parte II e Parte III
-[![Ciência e Conhecimento Científico PARTE I](capa_1.png)]()
-[![Ciência e Conhecimento Científico PARTE II](capa_2.png)]()
-[![Ciência e Conhecimento Científico PARTE III](capa_3.png)]()
-
 ####  O vídeo abaixo é sobre o mito da caverna, uma reflexão interessante para entendermos a importância de sair em busca de novos conhecimentos
 
 [![material complementar](mito.png)](https://www.youtube.com/watch?v=XoU4YAhJzLY)
@@ -28,3 +23,8 @@
 - [ ]  Classificação da Ciência da computação como Formais ou factuais, pura ou aplicada, exatas ou inexatas
 - [ ]  Explicação sobre a atividade do artigo WAZLAWICK, Raul Sidnei. “Uma Reflexão sobre a Pesquisa em Ciência da Computação à Luz da Classificação das Ciências e do Método Científico”. Revista de Sistemas de Informação da FSMA. n. 6, 2010 pp. 3-10
 - [ ]  Apresentação vídeo - Mito da caverna
+
+### Videoaulas metodologia do trabalho científico-  Ciência e Conhecimento Científico - Parte I, Parte II e Parte III
+[![Ciência e Conhecimento Científico PARTE I](capa_1.png)]()
+[![Ciência e Conhecimento Científico PARTE II](capa_2.png)]()
+[![Ciência e Conhecimento Científico PARTE III](capa_3.png)]()
