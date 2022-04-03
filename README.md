@@ -7,5 +7,7 @@
 - [Link WhatsApp Disciplina:] https://chat.whatsapp.com/CIx2Yzs2pQH6gQq8v6grFB
 - [Plano de Ensino e Cronograma](https://github.com/anacginocencio/Metodologia/files/8356194/plano_ensino_mtc_2021_2.pdf)
 - [Roteiro de aulas e materiais](documentos/roteiro.md)
+- [Link Classcraft](https://www.classcraft.com/pt/)
+
 
 ##  CRONOGRAMA AVALIAÇÕES E ENTREGAS
