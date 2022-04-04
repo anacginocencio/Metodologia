@@ -5,9 +5,9 @@
 - [Notas de Aula Métodos Científicos](aula_metodos_cientificos.pdf)
 
 ### Videos aulas metodologia -  Ciência e Conhecimento Científico - Parte I, Parte II e Parte III
-[![Métodos Científicos PARTE I](capa_4.png)]()
-[![Métodos Científicos PARTE II](capa_5.png)]()
-[![Métodos Científicos PARTE III](capa_6.png)]()
+[![Métodos Científicos PARTE I](capa_4.png)](https://youtu.be/vjX4pPBQ75c)
+[![Métodos Científicos PARTE II](capa_5.png)](https://youtu.be/V6LcrATZ3J0)
+[![Métodos Científicos PARTE III](capa_6.png)](https://youtu.be/J1YID_EvzRc)
 
 ### Desenvolvimento Aula Métodos Científicos - Parte I: 
 
