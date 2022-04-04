@@ -25,6 +25,6 @@
 - [ ]  Apresentação vídeo - Mito da caverna
 
 ### Videoaulas metodologia do trabalho científico-  Ciência e Conhecimento Científico - Parte I, Parte II e Parte III
-[![Ciência e Conhecimento Científico PARTE I](capa_1.png)]()
-[![Ciência e Conhecimento Científico PARTE II](capa_2.png)]()
-[![Ciência e Conhecimento Científico PARTE III](capa_3.png)]()
+[![Ciência e Conhecimento Científico PARTE I](capa_1.png)](https://youtu.be/VlhUu3Dphmo)
+[![Ciência e Conhecimento Científico PARTE II](capa_2.png)](https://youtu.be/bR4kS6oIB7w)
+[![Ciência e Conhecimento Científico PARTE III](capa_3.png)](https://youtu.be/6xKVnu3r8jo)
