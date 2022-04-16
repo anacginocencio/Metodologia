@@ -1,5 +1,5 @@
 # Metodologia do Trabalho Científico
-## Tema aula - Mapeamento Sistemático e Discussão de temas
+## Tema aula - Mapeamento Sistemático e Sugestão de temas
 
 ### Materiais
 - [Notas de Aula Mapeamento Sistemático](mapeamento_sistematico_atualizado.pdf)
