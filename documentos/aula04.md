@@ -2,8 +2,9 @@
 ## Tema aula - Mapeamento Sistemático e Discussão de temas
 
 ### Materiais
-- [Notas de Aula Pesquisa como Instrumento de Intervenção completo](mapeamento_sistematico_atualizado.pdf)
+- [Notas de Aula Mapeamento Sistemático](mapeamento_sistematico_atualizado.pdf)
 - [Livro Pesquisa Científica na Computação](livro_pesquisa.pdf)
+- [Documento para entrega mapeamento sistemático](documento.docx)
 
 
 
@@ -13,22 +14,12 @@
 - [ ]  Conceitos sobre questões de Pesquisa, Palavras-chave, Strings de busca, Métodos de pesquisa, 
 - [ ]  Conceitos sobre Critérios de inclusão e exclusão, critérios de qualidade
 - [ ]  Conceitos sobre Procedimentos para extração de dados e apresentação dos resultados
-- [ ]  Divisões da questã
-
-- [ ]  Como escolher o objeto, utilizando a revisão bibliográfica como suporteo de 
-
-
-### Desenvolvimento Aula Pesquisa como Instrumento de Intervenção - Parte II
-
-- [ ]  A Revisão bibliográfica
-- [ ]  Síndrome da Intersecção Esquecida - o pesquisador esquece de verificar outras soluções
-- [ ]  Fundamento vazio deve ser evitado
-- [ ]  Tipos de fontes bibliográficas
-- [ ]  Leitura crítica de artigos
-- [ ]  Objetivo Geral e objetivos específicos
-- [ ]  Objetivos de pesquisa versus objetivo técnico
-- [ ]  Método de pesquisa
-- [ ]  Hipótese de pesquisa
-- [ ]  Justificativa e sua importância em um trabalho científico
-- [ ]  Resultados esperados
-- [ ]  Limitações do trabalho
+- [ ]  O ESTUDO DE CASO DE EXEMPLO
+- [ ]  Divisões da questão de pesquisa a) população ou participantes; b) intervenção; c) contexto; d) comparação; e) resultado. 
+- [ ]  A justificativa de cada questão e sua importância 
+- [ ]  Os passos para estabelecer, fontes, palavras-chave, strings de busca o estudo de caso
+- [ ]  O método de pesquisa para o estudo de caso
+- [ ]  Critérios de inclusão e exclusão sobre o estudo de caso
+- [ ]  Procedimentos para extração de dados
+- [ ]  Apresentação dos resultados
+- [ ]  Exemplo de busca no periódicos CAPES
