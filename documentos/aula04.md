@@ -4,7 +4,8 @@
 ### Materiais
 - [Notas de Aula Mapeamento Sistemático](mapeamento_sistematico_atualizado.pdf)
 - [Livro Pesquisa Científica na Computação](livro_pesquisa.pdf)
-- [Documento mapeamento sistemático](documento.doc)
+- [Documento estrutura mapeamento sistemático](documento.doc)
+- [Planilha mapeamento Sistemático](planilha_mapeamento.xlsx)
 
 
 
