@@ -1,8 +1,8 @@
 ### CRONOGRAMA AULAS
-- [22/03/2022 a 29/03/2022 - Ciência e Conhecimento Científico - 6h](aula01.md)
-- [30/03/2022 a 06/04/2022 - Métodos Científicos - 6h](aula02.md)
-- [12/04/2022 a 13/04/2022 - A Pesquisa Como Instrumento de Intervenção - 4h](aula03.md)
-- [19/04/2022 a 20/04/2021 - Mapeamento Sistemático e Sugestão de temas e Discussão temas - 4h](aula04.md)
+- [22/03/2022 a 29/03/2022 - Ciência e Conhecimento Científico - 6h - DISPONÍVEL](aula01.md)
+- [30/03/2022 a 06/04/2022 - Métodos Científicos - 6h - DISPONÍVEL](aula02.md)
+- [12/04/2022 a 13/04/2022 - A Pesquisa Como Instrumento de Intervenção - 4h - DISPONÍVEL](aula03.md)
+- [19/04/2022 a 20/04/2021 - Mapeamento Sistemático e Sugestão de temas e Discussão temas - 4h - DISPONÍVEL](aula04.md)
 - [26/04/2022 - Técnicas de Pesquisa - 2h]()
 - [27/04/2022 - Técnicas de Apresentação - 2h]()
 - [03/05/2022 - Os diferentes tipos de trabalho científico (incluindo resumo e resenha) - 2h]()
