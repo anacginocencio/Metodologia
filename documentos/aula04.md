@@ -8,8 +8,8 @@
 - [Planilha mapeamento Sistemático](planilha_mapeamento.xlsx)
 
 ### Videos aulas metodologia -  Mapeamento Sistemático - Parte I, Parte II
-[![Mapeamento Sistemático - Parte 1](capa_09.png)]()
-[![Mapeamento Sistemático - Parte 2](capa_10.png)]()
+[![Mapeamento Sistemático - Parte 1](capa_09.png)](https://youtu.be/qDzw5aQEiFs)
+[![Mapeamento Sistemático - Parte 2](capa_10.png)](https://youtu.be/HcLmtRzVjwU)
 
 
 
