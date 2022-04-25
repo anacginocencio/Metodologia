@@ -5,8 +5,8 @@
 - [Notas de Aula Técnicas de Apresentação](tecnicas_apresentacao.pdf)
 
 
-### Videos aula metodologia -  Técnicas de Pesquisa
-- [![Técnicas de Apresentação(capa_12.png)](https://youtu.be/LKK5YJ0AQ-8)
+### Videos aula metodologia -  Técnicas de Apresentação
+[![Técnicas de Apresentação](capa_12.png)](https://youtu.be/LKK5YJ0AQ-8)
 
 
 ### Desenvolvimento Aula Técnicas de Apresentação: 
