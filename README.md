@@ -11,3 +11,8 @@
 
 
 ##  CRONOGRAMA AVALIAÇÕES E ENTREGAS
+
+- [10/05/2022 e 11/05/2022] - Apresentação Andamento Mapeamento Sistemático]
+- [03/06/2022] - Entrega Mapeamento Sistemático, Resumno e Resenha]
+- [01/07/2022] - Entrega Artigo Científico
+- [05/07/2022 e 06/07/2022] - Apresentação Artigo Científico
