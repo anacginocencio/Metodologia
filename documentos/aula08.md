@@ -15,7 +15,7 @@
 
 ### Desenvolvimento Aula DESENVOLVIMENTO Mapeamento Sistemático 
 
-- [ ]  Esta aula será
+- [ ]  Esta aula será dedicada ao desenvolvimento do mapeamento sistemática o possíveis dúvidas.
 
 
 ### Temas e grupos
