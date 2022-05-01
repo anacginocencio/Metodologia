@@ -6,7 +6,7 @@
 - [26/04/2022 - Técnicas de Pesquisa - 2h - DISPONÍVEL](aula05.md)
 - [27/04/2022 - Técnicas de Apresentação - 2h - DIPONÍVEL](aula06.md)
 - [03/05/2022 - Os diferentes tipos de trabalho científico (incluindo resumo e resenha) - 2h - DISPONÍVEL](aula07.md)
-- [04/05/2022 - Desenvolvimento Mapeamento Sistemático - Aula Dúvidas - 2h]()
+- [04/05/2022 - Desenvolvimento Mapeamento Sistemático - Aula Dúvidas - 2h - DISPONÍVEL](aula08.md)
 - #### [10/05/2022 - 11/05/2022 - Apresentação grupos - 4h]()
 - [17/05/2022 a 18/05/2022 - Normas técnicas e Gêneros de Pesquisa -4h]()
 - #### [24/05/2022 a 25/05/2022 - Feira das Profissões - 4h]
