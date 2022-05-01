@@ -2,7 +2,7 @@
 ## Tema aula - Os diferentes tipos de trabalho científico
 
 ### Materiais
-- [Notas de Aula Os diferentes tipos de trabalhos científico](Os_diferentes_tipos_de_trabalho_cientifico.pdf)
+- [Notas de Aula Os diferentes tipos de trabalhos científico](Os_diferentes_tipos_de_trabalho_científico.pdf)
 
 
 ### Videos aula metodologia -  Os Diferentes Tipos de Trabalho Científico
