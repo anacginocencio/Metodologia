@@ -6,6 +6,7 @@
 - [Livro Pesquisa Científica na Computação](livro_pesquisa.pdf)
 - [Documento estrutura mapeamento sistemático](documento.doc)
 - [Planilha mapeamento Sistemático](planilha_mapeamento.xlsx)
+- [Estrutura exemplo para definição de protocolo de pesquisa](exemplo_estrutura_revisao_sistematica.docx)
 
 ### Videos aulas metodologia -  Mapeamento Sistemático - Parte I, Parte II
 [![Mapeamento Sistemático - Parte 1](capa_09.png)](https://youtu.be/qDzw5aQEiFs)
