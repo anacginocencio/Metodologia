@@ -8,7 +8,8 @@
 - [03/05/2022 - Os diferentes tipos de trabalho científico (incluindo resumo e resenha) - 2h - DISPONÍVEL](aula07.md)
 - [04/05/2022 - Desenvolvimento Mapeamento Sistemático - Aula Dúvidas - 2h - DISPONÍVEL](aula08.md)
 - #### [10/05/2022 - 11/05/2022 - Apresentação grupos - 4h - DISPONÍVEL](aula09.md)
-- [17/05/2022 a 18/05/2022 - Normas técnicas e Gêneros de Pesquisa -4h]()
+- [17/05/2022 - Normas técnicas e Gêneros de Pesquisa -2h]()
+- [18/05/2022 - Dúvidas Mapeamento Sistemático - 2h]()
 - #### [24/05/2022 a 25/05/2022 - Feira das Profissões - 4h]
 - #### [31/05/2022 - Feriado Aniversário Jataí]
 - [01/06/2022 - Desenvolvimento Mapeamento Sistemático - Aula dúvidas -2h]()
