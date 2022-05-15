@@ -19,20 +19,15 @@
 
 ### Temas e grupos
 
-- [G07]  Testes de Software
-- [ ]  Avaliação de Software Educativo
-- [G10]  Comunidades Virtuais de Aprendizagem
-- [ ]  Informática na Educação Especial
-- [G08]  Informática na Escola e na Sala de Aula, incluindo experiências com Internet
-- [ ]  Redes Sociais na Educação
-- [ ]  Usabilidade e Acessibilidade de Software Educativo
-- [G09]  Gamificação no Ensino Superior
-- [G06]  Gamificação no Ensino Fundamental
-- [G04]  O Ensino Remoto e as Tecnologias Educacionais
-- [G02]  Realidade aumentada  e videogames
-- [G12]  Análise de qualidade de RPG em dispositivos móveis
 - [G01]  Pandemia e Tecnologias Digitais
-- [G05]  Aprendizagem colaborativa baseada em jogo
-- [ ]  Software de telemedicina
-- [G11]  Cidades inteligentes
+- [G02]  Realidade aumentada  e videogames
 - [G03] Astrofotografia no ensino de astronomia
+- [G04]  O Ensino Remoto e as Tecnologias Educacionais
+- [G05]  Aprendizagem colaborativa baseada em jogo
+- [G06]  Gamificação no Ensino Fundamental
+- [G07]  Testes de Software
+- [G08]  Scrum aplicado em empresas
+- [G09]  Gamificação no Ensino Superior
+- [G10]  Comunidades Virtuais de Aprendizagem
+- [G11]  Mulheres na Computação
+- [G12]  Análise de qualidade de RPG em dispositivos móveis
