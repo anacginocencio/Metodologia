@@ -3,6 +3,7 @@
 
 ### Materiais
 - [Notas de Aula escrita do artigo científico](escrita_artigo_cientifico.pdf)
+- [Site para acessar qualis](https://qualis.ic.ufmt.br/)
 
 ### Video aula metodologia -  Escrita do Artigo Científico
 [![Escrita do artito científico - Parte I](capa_15.png)](https://youtu.be/yh-F27qlnnI)
@@ -28,4 +29,4 @@
 - [ ] Não desanimar perante a primeira recusa. Os comentários ajudarão na correção do artigo e em sua melhora.
 - [ ] Periódico, Eventos, Workshopes e seminários, Livros e capítulos de livros
 - [ ] Ética no envio de artigos: NUNCA REALIZAR ENVIOS SIMULTÂNEOS DO MESMO ARTIGO.
-- [ ] Qualis: Explicar o que é
+- [ ] Qualis: Explicar o que é qualis e fazer algumas buscas.
