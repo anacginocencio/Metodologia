@@ -14,7 +14,7 @@
 - #### [31/05/2022 - Feriado Aniversário Jataí]
 - [01/06/2022 - Desenvolvimento Mapeamento Sistemático - Aula dúvidas -2h - DISPONÍVEL](aula11.md)
 - #### [03/06/2022 Entrega Mapeamento Sistemático, Resumo e Resenha - APENAS ENTREGA]()
-- [07/06/2022 a 08/06/2022 - A escrita do Artigo Científico - 4h]()
+- [07/06/2022 a 08/06/2022 - A escrita do Artigo Científico - 4h - DISPONÍVEL](aula12.md)
 - [14/06/2022 - Entrega N1 e Discussão Avaliações - 2h]()
 - [15/06/2022 a 21/06/2022 - O projeto de pesquisa e seus componentes/ Reflexões sobre o trabalho acadêmico - 4h](aula18.md)
 - [22/06/2022 - Níveis de exigência do trabalho de conclusão / Plágio - 2h]()
