@@ -4,7 +4,7 @@
 ### Materiais
 - [Notas de Aula Reflexões sobre o trabalho acadêmico](reflexoes_trabalho_academico.pdf)
 
-### Video aula metodologia -  Escrita do Artigo Científico
+### Video aula metodologia -  Reflexões sobre o Trabalho Acadêmico
 [![Reflexões sobre o Trabalho Acadêmico](capa_17.png)](https://youtu.be/nvUXRjajALU)
 
 ### Video extra - Reflexões trabalho acadêmico
