@@ -16,7 +16,7 @@
 - #### [03/06/2022 Entrega Mapeamento Sistemático, Resumo e Resenha - APENAS ENTREGA]()
 - [07/06/2022 a 08/06/2022 - A escrita do Artigo Científico - 4h - DISPONÍVEL](aula12.md)
 - [14/06/2022 - Entrega N1 e Discussão Avaliações - DISPONÍVEL - 2h](aula13.md)
-- [15/06/2022 - Reflexões sobre o trabalho acadêmico - 2h]()
+- [15/06/2022 - Reflexões sobre o trabalho acadêmico - DISPONÍVEL - 2h](aula14.md)
 - [21/06/2022 - Níveis de exigência do trabalho de conclusão / Plágio - 2h]()
 - [22/06/2022 a 29/06/2022 -  Dúvidas e Desenvolvimento Artigo Científico - 6h]()
 - #### [01/07/2022 - Entrega Artigo Científico - APENAS ENTREGA]()
