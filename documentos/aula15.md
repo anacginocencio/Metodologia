@@ -10,5 +10,5 @@
 
 ### Níveis de Exigência do trabalho de Conclusão e Plágio
 
-- [ ] Discussão sobre o que é uma boa ideia e como identificar um problema relevante para pesquisa
-- [ ] Guia de sobrevivência a orientação. Direitos e deveres dos orientadores e orientandos.
+- [ ] Discussão sobre o nível de exigência em trabalhos de conclusão de graduação, especialização, mestrado e doutorado
+- [ ] O que é plágio e como evitar
