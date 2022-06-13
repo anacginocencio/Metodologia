@@ -4,6 +4,7 @@
 ### Materiais
 - [Notas de Aula escrita do artigo científico](escrita_artigo_cientifico.pdf)
 - [Site para acessar qualis](https://qualis.ic.ufmt.br/)
+- [Template Artigo Científico](template_artigo_cientifico.docx)
 
 ### Video aula metodologia -  Escrita do Artigo Científico
 [![Escrita do artito científico - Parte I](capa_15.png)](https://youtu.be/yh-F27qlnnI)
