@@ -16,3 +16,8 @@
 - [03/06/2022] - Entrega Mapeamento Sistemático, Resumno e Resenha]
 - [01/07/2022] - Entrega Artigo Científico
 - [05/07/2022 e 06/07/2022] - Apresentação Artigo Científico
+
+## Materiais
+- [Ficha Avaliação Apresentação artigo](ficha_2021_2.pdf)
+
+
