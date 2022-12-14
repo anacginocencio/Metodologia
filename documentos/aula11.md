@@ -7,12 +7,12 @@
 - [Documento estrutura mapeamento sistemático](documento.doc)
 - [Planilha mapeamento Sistemático](planilha_mapeamento.xlsx)
 
-### Videos aulas metodologia -  Mapeamento Sistemático - Parte I, Parte II
-[![Mapeamento Sistemático - Parte 1](capa_09.png)](https://youtu.be/qDzw5aQEiFs)
-[![Mapeamento Sistemático - Parte 2](capa_10.png)](https://youtu.be/HcLmtRzVjwU)
+### Videos aulas metodologia - Revisão Sistemática da Literatura - Parte I, Parte II
+[![Revisão Sistemática - Parte 1](capa_09.png)](https://youtu.be/qDzw5aQEiFs)
+[![Revisão Sistemática - Parte 2](capa_10.png)](https://youtu.be/HcLmtRzVjwU)
 
 
-### Desenvolvimento Aula DESENVOLVIMENTO Mapeamento Sistemático 
+### Desenvolvimento Aula DESENVOLVIMENTO Revisão Sistemática da Literatura
 
 - [ ]  Esta aula será dedicada ao desenvolvimento da Revisão Sistemática e para possíveis dúvidas.
 
