@@ -1,5 +1,5 @@
 # Metodologia do Trabalho Científico
-## Tema aula - Dúvidas Mapeamento Sistemático
+## Tema aula - Dúvidas Revisão Sistemática da Literatura
 
 ### Materiais
 - [Notas de Aula Revisão Sistemática da Literatura](mapeamento_sistematico_atualizado.pdf)
