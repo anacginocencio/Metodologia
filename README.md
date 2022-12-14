@@ -9,7 +9,7 @@
 
 ##  CRONOGRAMA AVALIAÇÕES E ENTREGAS
 
-- [14/03/2023] - Apresentação andamento Revisão Sistemática da Literatura]
+- [14/03/2023 a 15/03/2023] - Apresentação andamento Revisão Sistemática da Literatura]
 - [28/03/2023] - Entrega Revisão Sistemática da Literatura e Resenha]
 - [28/04/2023] - Entrega Artigo Científico
 - [02/05/2023] - Apresentação Artigo Científico
