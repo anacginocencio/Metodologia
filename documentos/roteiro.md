@@ -36,6 +36,6 @@
 
 ### 28/04/2023 - Entrega Artigo Científico
 
-### 05/05/2023 - Apresentações Artigos Científicos - 2h
+### 02/05/2023 - Apresentações Artigos Científicos - 2h
 
 ### 08/05/2023  - Discussão N2 e Média final - 2h
