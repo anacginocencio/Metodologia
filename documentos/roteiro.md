@@ -3,7 +3,7 @@
 - [24/01/2023 a 25/01/2023 - Métodos Científicos - 4h](aula02.md)
 - [31/01/2023 a 07/02/2023 - A Pesquisa Como Instrumento de Intervenção - 6h](aula03.md)
 - [08/02/2023 a 15/02/2023 - Revisão Sistemática da Literatura e Discussão temas - 6h](aula04.md)
-#### - [21/02/2023 - 22/02/2023 - CARNAVAL]
+### 21/02/2023 - 22/02/2023 - CARNAVAL
 - [26/04/2022 - Técnicas de Pesquisa - 2h - DISPONÍVEL](aula05.md)
 - [27/04/2022 - Técnicas de Apresentação - 2h - DIPONÍVEL](aula06.md)
 - [03/05/2022 - Os diferentes tipos de trabalho científico (incluindo resumo e resenha) - 2h - DISPONÍVEL](aula07.md)
