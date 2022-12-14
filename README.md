@@ -3,7 +3,7 @@
 ## PLANEJAMENTO SEMESTRAL – 2022/2 
 
 - [Aulas - Terça-feira: 13h30 às 15h10 e Quarta-feira 15h30 às 17h10]
-- [Plano de Ensino e Cronograma](https://github.com/anacginocencio/Metodologia/files/8356194/plano_ensino_mtc_2022_2.pdf)
+- [Plano de Ensino e Cronograma](documentos/plano_ensino_mtc_2022_2.pdf)
 - [Roteiro de aulas e materiais](documentos/roteiro.md)
 
 
