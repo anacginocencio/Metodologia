@@ -7,7 +7,7 @@
 
 ### 21/02/2023 - 22/02/2023 - CARNAVAL
 
-- [28/02/2023 - Técnicas de Pesquisa - 2h](aula05.md)
+- [28/02/2023 - Técnicas de Pesquisa -2h](aula05.md)
 - [01/03/2023 - Técnicas de Apresentação - 2h](aula06.md)
 - [07/03/2023 - Os diferentes tipos de trabalho científico (incluindo resumo e resenha) - 2h](aula07.md)
 - [08/03/2023 - Desenvolvimento Revisão Sistemática de Literatura - Aula Dúvidas - 2h](aula08.md)
