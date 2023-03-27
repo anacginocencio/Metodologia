@@ -19,9 +19,9 @@
 
 
 ### 28/03/2023 - ENTREGA REVISÃO SISTEMÁTICA DA LITERATURA E RESENHA - 2h
+### 29/03/2023 - NÃO HAVERÁ AULA
 
-
-- [29/03/2023 a 04/04/2023 - A escrita do Artigo Científico e Overleaf - 4h](aula12.md)
+- [04/04/2023 - A escrita do Artigo Científico e Overleaf - 2h](aula12.md)
 
 ### 05/04/2023 - Entrega N1 e Discussão - 2h 
 
@@ -30,9 +30,9 @@
 - [19/04/2023 - Desenvolvimento Artigo Científico - 2h](aula12.md)
 
 
-### 25/04/2023 a 26/04/2023 - Feira das Profissões - 4h
+### 25/04/2023 a 26/04/2023 - Desenvolvimento Artigo Científico - 4h
 
-### 28/04/2023 - EXTRA DESENVOLVIMENTO Artigo Científico - 4h 
+### 28/04/2023 - EXTRA DESENVOLVIMENTO Artigo Científico - 8h 
 
 ### 28/04/2023 - Entrega Artigo Científico
 
