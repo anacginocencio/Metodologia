@@ -2,7 +2,7 @@
 ## Tema aula - Apresentação Disciplina e Ciência e Conhecimento Científico
 
 ### Materiais
-- [Notas de aula Ciência e Conhecimento Científico](Aula01_ciencia_conhecimento_cientifico.pdf)
+- [Notas de aula Ciência e Conhecimento Científico](Aula01_Ciencia_e_Conhecimento_Cientifico_1.pdf)
 
 ####  O vídeo abaixo é sobre o mito da caverna, uma reflexão interessante para entendermos a importância de sair em busca de novos conhecimentos
 
