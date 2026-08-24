@@ -2,7 +2,7 @@
 ## Tema aula - Métodos Científicos
 
 ### Materiais
-- [Notas de Aula Métodos Científicos](aula_metodos_cientificos.pdf)
+- [Notas de Aula Métodos Científicos](aula02_metodos_cientificos.pdf)
 
 ### Videos aulas metodologia -  Ciência e Conhecimento Científico - Parte I, Parte II e Parte III
 [![Métodos Científicos PARTE I](capa_4.png)](https://youtu.be/vjX4pPBQ75c)
