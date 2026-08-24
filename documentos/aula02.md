@@ -9,12 +9,6 @@
 [![Métodos Científicos PARTE II](capa_5.png)](https://youtu.be/V6LcrATZ3J0)
 [![Métodos Científicos PARTE III](capa_6.png)](https://youtu.be/J1YID_EvzRc)
 
-### Atividade Aula
-[kahoot valendo pontuação](https://kahoot.it/challenge/06209396?challenge-id=dd701e52-7000-49c6-a9d2-33d726c8c00f_1649164912509)
-- [ ] Primeiro lugar - 200
-- [ ] Segundo lugar - 100
-- [ ] Terceiro lugar  - 50
-- [ ] Questão certa - 10
 
 ### Desenvolvimento Aula Métodos Científicos - Parte I: 
 
@@ -50,5 +44,4 @@
 - [ ]  Tipos de artigos em ciência da computação
 - [ ]  O processo experimental em ciência da computação
 - [ ]  Processo experimental sistemático
-- [ ]  Entendendo o perfil de gamer: http://livrogamification.com.br/quiz/
-- [ ]  Aprendendo sobre o Kahoot: Métodos Científicos
+
