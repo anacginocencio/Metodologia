@@ -2,6 +2,7 @@
 
 - [Apresentação Disciplina e Ciência e Conhecimento Científico](aula01.md)
 - [Métodos Científicos](aula02.md)
+<!--
 - [A Pesquisa Como Instrumento de Intervenção](aula03.md)
 - [Revisão Sistemática da Literatura](aula04.md)
 - [Técnicas de Pesquisa](aula05.md)
@@ -11,3 +12,4 @@
 - [A escrita do Artigo Científico e Overleaf](aula12.md)
 - [Reflexões sobre o trabalho acadêmico](aula14.md)
 - [Níveis de exigência do trabalho de conclusão / Plágio](aula15.md)
+-->
