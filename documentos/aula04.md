@@ -50,8 +50,7 @@
 	- Atividade: leitura silenciosa do material "Leitura Eficiente de Artigos Científicos", grifando pontos-chave.
 
 ### Fechamento
-- Atividade prática: construir exemplos (projeto, artigo, monografia, resumo, resenha) sobre "IA na Educação".
-- Quiz relâmpago com cartões A-G (sem celular) revisando os 7 gêneros.
+- Quiz relâmpago revisando os 7 gêneros.
 - Retomar a enquete inicial — turma já reconhece os sete gêneros.
 
 ### Referências
