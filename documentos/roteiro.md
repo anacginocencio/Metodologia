@@ -3,7 +3,7 @@
 - [Apresentação Disciplina e Ciência e Conhecimento Científico](aula01.md)
 - [Métodos Científicos](aula02.md)
 - [A Pesquisa Como Instrumento de Intervenção](aula03.md)
-- [Os diferentes tipos de trabalho científico](aula07.md)
+- [Os diferentes tipos de trabalho científico](aula04.md)
   
 <!--
 - [Revisão Sistemática da Literatura](aula04.md)
