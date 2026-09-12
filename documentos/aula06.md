@@ -2,7 +2,7 @@
 ## Tema aula - Técnicas de Pesquisa, Responsabilidade Científica e TI Verde
 
 ### Materiais
-- [Notas de Aula Técnicas de Apresentação](Aula06_Tecnicas_Pesquisa_Responsabilidade_TIVerde_FINAL.pdf)
+- [Notas de Aula Técnicas de Pesquisa, Responsabilidade Científica e TI Verde](Aula06_Tecnicas_Pesquisa_Responsabilidade_TIVerde_FINAL.pdf)
 
 
 ### Material complementar - TI Verde
