@@ -4,6 +4,7 @@
 - [Métodos Científicos](aula02.md)
 - [A Pesquisa Como Instrumento de Intervenção](aula03.md)
 - [Os diferentes tipos de trabalho científico](aula04.md)
+- [Técnicas de Apresentação](aula05.md)
   
 <!--
 - [Revisão Sistemática da Literatura](aula04.md)
