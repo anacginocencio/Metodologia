@@ -1,12 +1,12 @@
 # Metodologia do Trabalho Científico
-## Tema aula - Técnicas de Apresentação
+## Tema aula - Técnicas de Pesquisa, Responsabilidade Científica e TI Verde
 
 ### Materiais
-- [Notas de Aula Técnicas de Apresentação](tecnicas_apresentacao.pdf)
+- [Notas de Aula Técnicas de Apresentação](Aula06_Tecnicas_Pesquisa_Responsabilidade_TIVerde_FINAL.pdf)
 
 
-### Videos aula metodologia -  Técnicas de Apresentação
-[![Técnicas de Apresentação](capa_12.png)](https://youtu.be/LKK5YJ0AQ-8)
+### Material complementar
+[![The Secret Carbon Footprint of Digital Data]](https://youtube.com/watch?v=8w48Lv95eik)
 
 
 ### Desenvolvimento Aula Técnicas de Apresentação: 
