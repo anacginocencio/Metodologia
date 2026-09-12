@@ -6,7 +6,7 @@
 
 
 ### Material complementar
-[![The Secret Carbon Footprint of Digital Data]](https://youtube.com/watch?v=8w48Lv95eik)
+[[The Secret Carbon Footprint of Digital Data]](https://youtube.com/watch?v=8w48Lv95eik)
 
 
 ### Desenvolvimento Aula Técnicas de Apresentação: 
