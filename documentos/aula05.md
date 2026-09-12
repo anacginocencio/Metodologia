@@ -1,22 +1,16 @@
 # Metodologia do Trabalho Científico
-## Tema aula - Técnicas de Pesquisa
+## Tema aula - Técnicas de Apresentação
 
 ### Materiais
-- [Notas de Aula Técnicas de Pesquisa](aula_tecnicas_de_pesquisa.pdf)
+- [Notas de Aula Técnicas de Pesquisa](Aula05_Tecnicas_de_Apresentacao.pdf)
 
+### Desenvolvimento Aula: 
 
-### Videos aula metodologia -  Técnicas de Pesquisa
-[![Técnicas de Pesquisa](capa_11.png)](https://youtu.be/bbIAHBm_Gs8)
-
-
-### Desenvolvimento Aula Técnicas de Pesquisa: 
-
-- [ ]  Discussão sobre o que é técnica
-- [ ]  Documentação indireta - LEVANTAMENTO DE DADOS DE VARIADAS FONTES
-- [ ]  Pesquisa documental e pesquisa bibliográfica
-- [ ]  Documental - restrita a documentos
-- [ ]  Bibliográfica - toda bibliografia tornada pública
-- [ ]  Documentação direta - Pesquisa de campo e pesquisa de laboratório
-- [ ]  Ciência da Computação Experimental
-- [ ]  Observação direta Intensiva: OBSERVAÇÃO e ENTREVISTA
-- [ ]  Observação direta Extensiva: QUESTIONÁRIOS e FORMULÁRIOS
+- [ ]  Por que a apresentação importa?
+- [ ]  O que falar?
+- [ ]  Estrutura de uma apresentação
+- [ ]  Elaborando os slides
+- [ ]  Para quem falar?
+- [ ]  Fazendo a apresentação
+- [ ]  Respondendo as perguntas
+- [ ]  Orientações para a atividade de apresentação
