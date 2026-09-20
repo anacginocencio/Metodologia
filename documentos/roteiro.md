@@ -6,6 +6,7 @@
 - [Os diferentes tipos de trabalho científico](aula04.md)
 - [Técnicas de Apresentação](aula05.md)
 - [Técnicas de Pesquisa, Responsabilidade Cientifica e TI Verde](aula06.md)
+- [Amostragem, Coleta e Análise de Dados](aula07.md)
   
 <!--
 - [Revisão Sistemática da Literatura](aula04.md)
