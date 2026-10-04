@@ -7,5 +7,5 @@
 - [Técnicas de Apresentação](aula05.md)
 - [Técnicas de Pesquisa, Responsabilidade Cientifica e TI Verde](aula06.md)
 - [Amostragem, Coleta e Análise de Dados](aula07.md)
-- [Aula Prátia - Técnicas de Apresentação](aula08.md)
+- [Aula Prática - Técnicas de Apresentação](aula08.md)
   
