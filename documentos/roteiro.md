@@ -7,13 +7,5 @@
 - [Técnicas de Apresentação](aula05.md)
 - [Técnicas de Pesquisa, Responsabilidade Cientifica e TI Verde](aula06.md)
 - [Amostragem, Coleta e Análise de Dados](aula07.md)
+- [Aula Prátia - Técnicas de Apresentação](aula08.md)
   
-<!--
-- [Revisão Sistemática da Literatura](aula04.md)
-- [Técnicas de Pesquisa](aula05.md)
-- [Técnicas de Apresentação](aula06.md)
-- [Normas técnicas e Gêneros de Pesquisa](aula10.md)
-- [A escrita do Artigo Científico e Overleaf](aula12.md)
-- [Reflexões sobre o trabalho acadêmico](aula14.md)
-- [Níveis de exigência do trabalho de conclusão / Plágio](aula15.md)
--->
