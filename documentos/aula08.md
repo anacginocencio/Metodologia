@@ -8,8 +8,5 @@
 
 ### Desenvolvimento Aula: 
 
-
-Desenvolvimento Aula:
-
-* Execução das apresentações dos grupos
-* Feedback formativo da docente e dos colegas, com apoio da ficha de avaliação
+- [ ] Execução das Apresentações
+- [ ] Feedback formativo da docente e dos colegas, com apoio da ficha de avaliação
